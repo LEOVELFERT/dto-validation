@@ -18,4 +18,5 @@ public class UserController {
         return new ResponseEntity<>("User Created SuccesFully", HttpStatus.CREATED);
     }
 
+
 }
